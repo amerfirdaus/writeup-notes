@@ -24,9 +24,9 @@ getting file \share of size 220 as share (43.0 KiloBytes/sec) (average 43.0 Kilo
 smb: \> quit
 ```
 
+`hint1`
 cat `share`
 -----------
-`hint1`
 <!-- 89492D216D0A212F8ED54FC5AC9D340B -->
 ```
 Guys, I left you access only here to give you my shared file, you have little time, I leave you the login credentials inside for FTP you will find some info, you have to hurry!
@@ -46,22 +46,24 @@ admin: ...
 1 password hash cracked, 0 left
 ```
 
-
-
-- /Syst3m/here.txt `hint2`
+`hint2`
+- /Syst3m/here.txt 
 ```
 (I l3f7 y0u 0ur s3cr3t c0d3)+(I l3f7 17 ju57 f0r y0u)+(t0 m4k3)x(7h1ng5 s4f3r.)
 
 -Admin
 ```
+`hint3`
 
-- Refer to `/home/admin/Syst3m/F4iluR3/file0189.txt` `hint3`
+- Refer to `/home/admin/Syst3m/F4iluR3/file0189.txt` 
 
 `...to create super-soldiers-J310MIYla1aVUaSV-`
 
 `hint4`
-```
+
+```sh
 admin@SystemFailure:/var/www/html/area4$ cat Sup3rS3cR37/System/note.txt 
+
 Guys, I left something here for you, I know your skills well, we must try to hurry. Not always everything goes the right way.
 
 -Admin
@@ -84,7 +86,7 @@ FLAG
 - user2.txt | /home/jin/
 <!-- 172c7b08a7507f08bab7694fd632839e -->
 
-- .SuP3rFin4Lfl4g.txt 
+- .superfinalflag.txt 
 
 ```sh
 ╔═╗┬ ┬┌─┐┌┬┐┌─┐┌┬┐  ╔═╗┌─┐┬┬  ┬ ┬┬─┐┌─┐
@@ -102,7 +104,7 @@ Follow me and give feedback on Twitter: 0xJin
 L1N5c3QzbUY0aUx1UjIzNTEyNA==
 ```
 
-check this out: L1N5c3QzbUY0aUx1UjIzNTEyNA== : [/Syst3mF4iLuR235124](https://i.giphy.com/media/lp3GUtG2waC88/giphy.webp)
+check this out: `L1N5c3QzbUY0aUx1UjIzNTEyNA==` > [/Syst3mF4iLuR235124](https://i.giphy.com/media/lp3GUtG2waC88/giphy.webp)
 
 
 - root.txt `hint5` 
