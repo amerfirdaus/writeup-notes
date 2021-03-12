@@ -1,0 +1,35 @@
+===============================================================
+Gobuster v3.0.1
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
+===============================================================
+[+] Url:            http://wekor.thm/it-next/
+[+] Threads:        10
+[+] Wordlist:       /opt/mylist/dirmedium.txt
+[+] Status codes:   200,204,301,302,307,401,403
+[+] User Agent:     gobuster/3.0.1
+[+] Extensions:     sql,jpg,php,txt,log,zip,bak
+[+] Timeout:        10s
+===============================================================
+2021/03/11 09:02:24 Starting gobuster
+===============================================================
+/images (Status: 301)
+/index.php (Status: 200)
+/css (Status: 301)
+/js (Status: 301)
+/config.php (Status: 200)
+/fonts (Status: 301)
+===============================================================
+Gobuster v3.0.1
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
+===============================================================
+[+] Url:            http://site.wekor.thm
+[+] Threads:        10
+[+] Wordlist:       /opt/mylist/dirmedium.txt
+[+] Status codes:   200,204,301,302,307,401,403
+[+] User Agent:     gobuster/3.0.1
+[+] Extensions:     bak,sql,jpg,php,txt,log,zip
+[+] Timeout:        10s
+===============================================================
+2021/03/11 09:46:12 Starting gobuster
+===============================================================
+/wordpress (Status: 301)
